@@ -1,0 +1,18 @@
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+ .navbar {
+   margin-bottom: 0;
+   border-radius: 0;
+ }
+
+ .jumbotron {
+   padding-top: 75px;
+ }
+ footer {
+   padding-top: 15px;
+   padding-bottom: 15px;
+ }
+ 
+ /* Add a gray background color and some padding to the footer 
+ footer {
+   
+ }*/
