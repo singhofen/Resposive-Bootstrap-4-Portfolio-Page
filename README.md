@@ -2,7 +2,12 @@
 Fully responsive for someone/freelancer to display their portfolio of project for digital media/design. 
 #MIT License
 
----
+https://codepen.io/csinghofen/pen/QmmYQP Sample one
+
+https://codepen.io/csinghofen/pen/mXEELZ Sample two
+
+
+
 ---
 
 
